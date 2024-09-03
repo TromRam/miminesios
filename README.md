@@ -1,0 +1,2 @@
+# miminesios
+Temchqs MiMines BOT
